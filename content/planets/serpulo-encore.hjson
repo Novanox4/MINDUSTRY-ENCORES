@@ -62,6 +62,17 @@ mesh: [
   octaves: 2
   persistence: 1.75
   }
+  {
+  //shale
+  type: NoiseMesh
+  planet: serpulo-encore
+  color1: 676593
+  color2: 5c567a
+  radius: 3.93
+  divisions: 4
+  octaves: 3
+  persistence: 1.9
+  }
 ]
 generator: {
   octaves: 3
