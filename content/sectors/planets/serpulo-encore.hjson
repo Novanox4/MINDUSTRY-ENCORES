@@ -1,0 +1,53 @@
+name: "Serpulo: Encores"
+description: Post-catastrophe Serpulo. Harder sectors, new layouts and waves, extra limitations.
+alwaysUnlocked: true
+defaultCore: core-shard
+solarSystem: sun
+parent: sun
+startSector: 0
+radius: 2
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+accessible: true
+updateLighting: true
+sectorSeed: 14513
+bloom: true
+visible: true
+atmosphereColor: 000000
+iconColor: 000000
+hasAtmosphere: true
+allowWaveSimulation: false
+clearSectorOnLose: true
+allowWaves: true
+prebuildBase: true
+allowLaunchSchematics: false
+allowLaunchToNumbered: false
+allowLaunchLoadout: false
+allowSectorInvasion: true
+sectorSize: 0.25
+//TODO: Finish mesh
+mesh: [
+  {
+  //stone
+  type: NoiseMesh
+  planet: serpulo-encore
+  color1: 54545b
+  color2: 666666
+  radius: 1
+  divisions: 4
+  octaves: 2
+  persistence: 1.4
+  }
+  {
+  //dark sand
+  type: NoiseMesh
+  planet: serpulo-encore
+  color1: d3ae8d
+  color2: f7cba4
+  radius: 1.6
+  divisions: 5
+  octaves: 4
+  persistence: 1.25
+  }
+]
