@@ -59,8 +59,8 @@ mesh: [
   color2: 5867ac
   radius: 1
   divisions: 5
-  octaves: 0.33
-  persistence: 0.5
+  octaves: 1
+  persistence: 1
   }
 ]
 generator: {
