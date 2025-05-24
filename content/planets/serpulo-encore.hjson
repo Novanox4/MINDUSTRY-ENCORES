@@ -68,10 +68,10 @@ mesh: [
   planet: serpulo-encore
   color1: 676593
   color2: 5c567a
-  radius: 3.925
+  radius: 3.9225
   divisions: 5
   octaves: 6
-  persistence: 1.9
+  persistence: 1.885
   }
 ]
 generator: {
