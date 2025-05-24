@@ -57,10 +57,10 @@ mesh: [
   planet: serpulo-encore
   color1: 4d5ca4
   color2: 5867ac
-  radius: 3.9105
+  radius: 3.911
   divisions: 5
-  octaves: 2
-  persistence: 1.75
+  octaves: 1
+  persistence: 1.74
   }
   {
   //shale
