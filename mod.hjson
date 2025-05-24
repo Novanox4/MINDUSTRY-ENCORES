@@ -1,0 +1,7 @@
+name: "mindustry-encores"
+displayName: "MINDUSTRY: ENCORES"
+description: "Mod that adds new, harder versions of existing campaign maps unlocked after completing the game. A decent amount of gameplay experience is reccomended."
+repo: Novanox4/MINDUSTRY-ENCORES
+version: 0.1
+author: NV-NX
+minGameVersion: 149
