@@ -35,7 +35,7 @@ mesh: [
   planet: serpulo-encore
   color1: 54545b
   color2: 666666
-  radius: 3.9
+  radius: 3.915
   divisions: 4 
   octaves: 2
   persistence: 1.4
@@ -57,7 +57,7 @@ mesh: [
   planet: serpulo-encore
   color1: 4d5ca4
   color2: 5867ac
-  radius: 3.855
+  radius: 3.85
   divisions: 5
   octaves: 1
   persistence: 1
@@ -82,7 +82,7 @@ cloudMesh: [
  {
    type: HexSkyMesh
    planet: serpulo-encore
-   speed: 1
+   speed: 3.25
    radius: 0.1
    divisions: 6
    color: ffffff
