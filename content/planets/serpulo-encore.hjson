@@ -57,7 +57,7 @@ mesh: [
   planet: serpulo-encore
   color1: 4d5ca4
   color2: 5867ac
-  radius: 3.87
+  radius: 3.855
   divisions: 5
   octaves: 1
   persistence: 1
