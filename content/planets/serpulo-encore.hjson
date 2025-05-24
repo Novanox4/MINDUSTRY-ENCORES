@@ -41,7 +41,7 @@ mesh: [
   persistence: 1.4
   }
   {
-  //dark sand or basalt
+  //dark sand and basalt
   type: NoiseMesh
   planet: serpulo-encore
   color1: 3c3838
@@ -68,9 +68,9 @@ mesh: [
   planet: serpulo-encore
   color1: 676593
   color2: 5c567a
-  radius: 3.93
-  divisions: 4
-  octaves: 3
+  radius: 3.925
+  divisions: 5
+  octaves: 6
   persistence: 1.9
   }
 ]
