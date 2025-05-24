@@ -1,5 +1,4 @@
-
-name: "Serpulo: Encores"
+localizedName: "Serpulo: Encores"
 description: Post-catastrophe Serpulo. Harder sectors, new layouts and waves, extra limitations.
 alwaysUnlocked: true
 defaultCore: core-shard
@@ -45,11 +44,11 @@ mesh: [
   //dark sand
   type: NoiseMesh
   planet: serpulo-encore
-  color1: d3ae8d
-  color2: f7cba4
-  radius: 1.6
+  color1: 3c3838
+  color2: 515151
+  radius: 1
   divisions: 5
-  octaves: 4
+  octaves: 2
   persistence: 1.25
   }
 ]
