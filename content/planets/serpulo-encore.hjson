@@ -60,7 +60,7 @@ mesh: [
   radius: 3.9105
   divisions: 5
   octaves: 2
-  persistence: 5
+  persistence: 2
   }
 ]
 generator: {
