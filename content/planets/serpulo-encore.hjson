@@ -41,7 +41,7 @@ mesh: [
   persistence: 1.4
   }
   {
-  //dark sand
+  //dark sand or basalt
   type: NoiseMesh
   planet: serpulo-encore
   color1: 3c3838
@@ -50,6 +50,17 @@ mesh: [
   divisions: 5
   octaves: 2
   persistence: 1.25
+  }
+  {
+  //water
+  type: NoiseMesh
+  planet: serpulo-encore
+  color1: 4d5ca4
+  color2: 5867ac
+  radius: 1
+  divisions: 5
+  octaves: 0.33
+  persistence: 0.5
   }
 ]
 generator: {
