@@ -35,7 +35,7 @@ mesh: [
   planet: serpulo-encore
   color1: 54545b
   color2: 666666
-  radius: 1
+  radius: 2
   divisions: 4
   octaves: 2
   persistence: 1.4
@@ -67,3 +67,17 @@ generator: {
   berylChance: 0
   ferricChance: 0.26
 }
+cloudMesh: [
+ {
+   type: HexSkyMesh
+   planet: serpulo-encore
+   speed: 1
+   radius: 0.1
+   divisions: 6
+   color: 2d4f61
+   octaves: 3
+   persistence: 0.3
+   scl: 1
+   thresh: 0.6
+  }
+]
