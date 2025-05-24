@@ -59,7 +59,7 @@ mesh: [
   color2: 5867ac
   radius: 3.9105
   divisions: 5
-  octaves: 1
+  octaves: 4
   persistence: 1
   }
 ]
