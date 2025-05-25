@@ -25,7 +25,7 @@ allowLaunchSchematics: false
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: true
-sectorSize: 2
+sectorSize: 2.5
 sectorSeed: 69
 //TODO: Finish mesh
 mesh: [
