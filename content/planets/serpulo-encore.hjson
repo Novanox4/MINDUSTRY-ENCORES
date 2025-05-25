@@ -25,7 +25,7 @@ allowLaunchSchematics: false
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: true
-sectorSize: 0.25
+sectorSize: 1
 sectorSeed: 69
 //TODO: Finish mesh
 mesh: [
@@ -94,7 +94,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: serpulo-encore
    speed: 3.25
-   radius: 0.5
+   radius: 0.225
    divisions: 6
    color: ffffff
    octaves: 3
