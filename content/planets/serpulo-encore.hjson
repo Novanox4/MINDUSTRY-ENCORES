@@ -7,7 +7,7 @@ parent: sun
 startSector: 0
 radius: 4
 drawOrbit: true
-atmosphereRadIn: 0
+atmosphereRadIn: 0.2
 atmosphereRadOut: 0.5
 accessible: true
 updateLighting: true
@@ -25,7 +25,7 @@ allowLaunchSchematics: false
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: true
-sectorSize: 1
+sectorSize: 0.25
 sectorSeed: 69
 //TODO: Finish mesh
 mesh: [
