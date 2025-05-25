@@ -4,7 +4,10 @@ sector: 0
 planet: serpulo-encore
 difficulty: 3
 research: {
-  parent: planetaryTerminal
+  root: true
+  planet: serpulo-encore
+  name: "Serpulo: Encore"
+  requiresUnlock: true
   objectives: [
     {
       type: SectorComplete
