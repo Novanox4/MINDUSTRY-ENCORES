@@ -94,7 +94,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: serpulo-encore
    speed: 3.25
-   radius: 0.1
+   radius: 0.5
    divisions: 6
    color: ffffff
    octaves: 3
