@@ -5,9 +5,9 @@ defaultCore: core-shard
 solarSystem: sun
 parent: sun
 startSector: 0
-radius: 4
+radius: 3.8
 drawOrbit: true
-atmosphereRadIn: 0.4
+atmosphereRadIn: 0
 atmosphereRadOut: 0.5
 accessible: true
 updateLighting: true
