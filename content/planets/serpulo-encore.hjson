@@ -7,7 +7,7 @@ parent: sun
 startSector: 0
 radius: 4
 drawOrbit: true
-atmosphereRadIn: 0.2
+atmosphereRadIn: 0.4
 atmosphereRadOut: 0.5
 accessible: true
 updateLighting: true
